@@ -1,6 +1,6 @@
 # DeepLearner
-### :OpenCV-based Driver Drowsiness Detection System using 3D Facial Movement Estimation
-### 딥러닝(CNN) 기반 운전자 머리 및 시선 추적을 통한 졸음운전 방지
+### OpenCV-based Driver Drowsiness Detection System using 3D Facial Movement Estimation
+### OpenCV 기반 운전자 머리 및 시선 추적을 통한 졸음운전 방지
 Notion [link](http://bit.ly/ewhadeeplearner), Github [link](https://github.com/indigopyj/DeepLearner)
 ### Description
 #### This program detects the drowsiness of a driver in real time with using OpenCV Python.
